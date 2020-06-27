@@ -7,3 +7,8 @@ shadowsocksr-android-3.5.3.apk
 https://github.com/shadowsocksrr
 
 https://github.com/j-proxy/iossos
+
+windows
+https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+
+
